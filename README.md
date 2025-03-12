@@ -2,7 +2,7 @@
 > Convert PDF to text and process the text through an LLM
 
 <!-- Badges generated with https://michaelcurrin.github.io/badge-generator/ -->
-[![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/pdf-local-llm?include_prereleases=&sort=semver)](https://github.com/MichaelCurrin/pdf-local-llm/releases/)
+[![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/pdf-local-llm?include_prereleases=&sort=semver)](https://github.com/MichaelCurrin/pdf-local-llm/tags/)
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
 
 
