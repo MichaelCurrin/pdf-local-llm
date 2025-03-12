@@ -6,6 +6,13 @@
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
 
 
+## Use cases
+
+- Translate a PDF to another language or rewrite in summarized format.
+- Scale to a lot of content - if you have a lot of PDFs or many pages.
+- Process data securely for privacy - run through the local LLM model offline, rather than using ChatGPT or a PDF translation service on the internet where you data might be used or stored.
+
+
 ## Requirements
 
 - [Python](https://www.python.org/).
