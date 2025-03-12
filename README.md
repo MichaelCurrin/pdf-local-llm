@@ -17,20 +17,22 @@
 
 ## Requirements
 
-- [Python](https://www.python.org/).
-- [Poetry](https://python-poetry.org/).
-- [Ollama](https://ollama.com/).
+- [Python](https://www.python.org/)
+- [Poetry](https://python-poetry.org/)
+- [Ollama](https://ollama.com/)
 
 
 ## Installation
 
-Install Ollama using the _Download_ page of the website.
+Install Python and Poetry as per versions at the top of this page.
 
 Install project packages:
 
 ```sh
 poetry install
 ```
+
+Install Ollama using the _Download_ page of the website.
 
 
 ## Usage
