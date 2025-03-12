@@ -5,6 +5,8 @@
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/pdf-local-llm?include_prereleases=&sort=semver)](https://github.com/MichaelCurrin/pdf-local-llm/tags/)
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
 
+[![Made with Python](https://img.shields.io/badge/dynamic/toml?url=https%3A%2F%2Fraw.githubusercontent.com%2FMichaelCurrin%2Fpdf-local-llm%2Frefs%2Fheads%2Fmain%2Fpyproject.toml&query=project.requires-python&label=python&logo=python&logoColor=white)](https://python.org "Go to Python homepage")
+[![Poetry 2](https://img.shields.io/badge/poetry-2-blue)](https://python-poetry.org/ "Go to Poetry homepage")
 
 ## Use cases
 
