@@ -3,7 +3,7 @@ package-mode = false
 
 [project]
 name = "pdf-local-llm"
-version = "0.1.0"
+version = "0.2.0"
 description = ""
 authors = [
     { name = "Michael Currin", email = "18750745+MichaelCurrin@users.noreply.github.com" },
