@@ -14,6 +14,11 @@
 - Scale to a lot of content - if you have a lot of PDFs or many pages.
 - Process data securely for privacy - run through the local LLM model offline, rather than using ChatGPT or a PDF translation service on the internet where you data might be used or stored.
 
+## Limitations
+
+- The translation example breaks the contents into chunks and processes them one chunk at a time. This works for translation but not for summarization or asking other questions.
+- For the other approach, we pass the entire PDF contents to the LLM. Which can mean poor performance of quality.
+- PDFs which exceed the token limits for the model will be cut off.
 
 ## Requirements
 
@@ -29,10 +34,10 @@ Install Python and Poetry as per versions at the top of this page.
 Install project packages:
 
 ```sh
-poetry install
+make install
 ```
 
-Install Ollama using the _Download_ page of the website.
+Install Ollama using the _Download_ page of their website.
 
 
 ## Usage
