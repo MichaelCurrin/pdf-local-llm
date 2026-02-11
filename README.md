@@ -1,4 +1,4 @@
-# PDF local LLM demo
+# PDF local LLM
 > Convert PDF to text and process the text through an LLM
 
 <!-- Badges generated with https://michaelcurrin.github.io/badge-generator/ -->
@@ -8,11 +8,15 @@
 [![Made with Python](https://img.shields.io/badge/dynamic/toml?url=https%3A%2F%2Fraw.githubusercontent.com%2FMichaelCurrin%2Fpdf-local-llm%2Frefs%2Fheads%2Fmain%2Fpyproject.toml&query=project.requires-python&label=python&logo=python&logoColor=white)](https://python.org "Go to Python homepage")
 [![Poetry 2](https://img.shields.io/badge/poetry-2-blue)](https://python-poetry.org/ "Go to Poetry homepage")
 
-## Use cases
+This repo is a demo, setup as a Jupyter notebook and hardcoded values for digesting a specific PDF and asking an LLM questions about it. However, you can modify the notebook for your needs or use it to make your own tool.
+
+## Capabilities
 
 - Translate a PDF to another language or rewrite in summarized format.
 - Scale to a lot of content - if you have a lot of PDFs or many pages.
-- Process data securely for privacy - run through the local LLM model offline, rather than using ChatGPT or a PDF translation service on the internet where you data might be used or stored.
+- Process data securely for **privacy** - run through a local LLM model offline, rather than using ChatGPT or a PDF translation service on the internet where you data might be used or stored.
+
+One use case is taking documents on your health or mortagage and translating from English to another language or the other way around.
 
 ## Limitations
 
